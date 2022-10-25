@@ -132,25 +132,11 @@ Remember, you need to console log both the key and the value of each of the bird
 <b>Step 3.</b> 
     Using the same starter code as in task 2, create a function called `animalCan` and within it, loop over all the properties in both the bird object and its prototype - the animal object - using the for...in loop. 
     
-   <br>
-   <br>
-   # Lab Instructions: Building a Functional Program
+<br>
+<br>
+# Lab Instructions: Building a Functional Program
 
 In this exercise you'll get hands-on practice with functional programming concepts. <br> <br> 
-
-
-> ### **Tips: Before you Begin**
-> #### To view your code and instructions side-by-side, select the following in your VSCode toolbar:
-> - View -> Editor Layout -> Two Columns
-> - To view this file in Preview mode, right click on this README.md file and `Open Preview`
-> - Select your code file in the code tree, which will open it up in a new VSCode tab.
-> - Drag your assessment code files over to the second column. 
-> - Great work! You can now see instructions and code at the same time. 
-> - Questions about using VSCode? Please see our support resources here:  
-    [Visual Studio Code on Coursera](https://www.coursera.org/learn/programming-with-javascript/supplement/roMvE/visual-studio-code-on-coursera)
-> #### **To run your JavaScript code**
-> - Select your JavaScript file
-> - Select the "Run Code" button in the upper right hand toolbar of VSCode. Ex: It looks like a triangular "Play" button. <br><br>
 
 <br>
 
