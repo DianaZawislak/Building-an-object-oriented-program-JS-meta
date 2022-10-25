@@ -134,11 +134,10 @@ Remember, you need to console log both the key and the value of each of the bird
     
 <br>
 <br>
+
 # Lab Instructions: Building a Functional Program
 
 In this exercise you'll get hands-on practice with functional programming concepts. <br> <br> 
-
-<br>
 
 ## Task 1: Build a function-based console log message generator
 In this exercise, your task is to code a function named `consoleStyler`, which accepts four parameters:
