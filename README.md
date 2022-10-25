@@ -245,3 +245,20 @@ The function declaration's body should consist of two function invocations:
     - `'champions'`
 
 <br>
+
+# Lab Instructions: Jest unit testing
+
+## Task 1: Code the timesTwo function
+
+Open the timesTwo.js file and add a function named `timesTwo`. The function should take number as input and return the value 2 multiplied by the number.
+Export the timesTwo function as a module.
+<br><br>
+
+## Task 2: Write the first test
+Code a test call with the following arguments:
+1. The description that reads: "returns the number times 2".
+2. The second argument should expect the call to the timesTwo function, when passed the number 10, to be 20.
+   <br><br>
+
+## Task 3: Run the first test
+With the terminal pointed at the `jest-testing` directory, run the test script using npm.
