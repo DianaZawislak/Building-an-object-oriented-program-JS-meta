@@ -1,4 +1,4 @@
-# Building-an-object-oriented-program-JS-meta
+# META Programming with Java labs
 # Lab Instructions: Object Oriented Programming
  
 ## Task 1: Code a Person class
@@ -85,7 +85,7 @@ Run the `doSomethingFun()` method on the manager object. Then `return` the manag
 <br><br>
 
 
-## Task: Iterate Over an Array
+# Lab Instruction: Iterate Over an Array
 
 In this exercise, you'll use the for....of loop to iterate over an array and to iterate over an object's own properties.  
 <br><br>
